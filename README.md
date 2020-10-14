@@ -39,8 +39,8 @@ To run this example skill you need to do two things. The first is to deploy the 
 
 ## Examples
 ### Dialog model:
-    User: "Alexa, open truth or dare unrated"
-    Alexa: "Welcome to the Truth or Dare game. If you want to hear the game rules, say: give me the rules. If you want me to list the different categories, say: give me the categories."
+    User: "Alexa, open Truth or Dare, Lockdown Style"
+    Alexa: "Welcome to the Truth or Dare, Lockdown Style. If you want to hear the game rules, say: give me the rules. If you want me to list the different categories, say: give me the categories."
     User: "Give me the categories"
     Alexa: "The available categories are: category1. category2. category3. Please tell me the category you want to play by saying, play category category2, for example."
     User: "Play category category2"

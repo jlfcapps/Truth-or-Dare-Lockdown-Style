@@ -1,5 +1,5 @@
 {
-  "name": "truthOrDareUnrated",
+  "name": "TruthorDareLockdownStyle",
   "description": "An alexa skill to play the famous Truth or Dare game!",
   "region": "us-east-1",
   "handler": "tod/voice_interface.lambda_handler",

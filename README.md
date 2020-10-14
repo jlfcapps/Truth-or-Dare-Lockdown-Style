@@ -1,18 +1,9 @@
-[![Build Status](https://travis-ci.org/breboulet/alexa-truth-or-dare.svg?branch=master)](https://travis-ci.org/breboulet/alexa-truth-or-dare)
-[![Coverage Status](https://coveralls.io/repos/github/breboulet/alexa-truth-or-dare/badge.svg?branch=master)](https://coveralls.io/github/breboulet/alexa-truth-or-dare?branch=master)
+# Truth or Dare Lockdown Style Game
 
-# Truth or Dare Unrated Alexa Skill
-
-[Truth or Dare Unrated on the Alexa Skills Store](http://www.alexaskillstore.com/Games/Truth-or-Dare-Unrated)
-
+Truth or Dare Lockdown Style Game
 ## Synopsis
 
 An AWS Lambda function implementing an alexa skill to play the famous Truth or Dare Party Game with multiple categories.
-
-## Motivation
-
-This project started to participate in a live contest: Hey Alexa! The Amazon Alexa Skill Contest on [Hackster.io](https://www.hackster.io)
-I did it mainly to learn new things and share what I learned with the community.
 
 ## Setup
 

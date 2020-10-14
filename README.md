@@ -1,6 +1,6 @@
-# Truth or Dare Challenge, Lockdown Style Alexa Skill
+# Truth or Dare, Lockdown Style Alexa Skill
 
-Truth or Dare Challenge, Lockdown Style Alexa Skill
+Truth or Dare, Lockdown Style Alexa Skill
 
 ## Synopsis
 
